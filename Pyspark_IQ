@@ -1,0 +1,19 @@
+1 .Why is caching so important in PySpark? When’s the best time to use it?
+
+2. How do cache() and persist() differ? When would you pick one over the other?
+
+3. What makes Kryo serialization faster than the default one in PySpark?
+
+4. Why do formats like Parquet and ORC make jobs faster? What’s their advantage?
+
+5. When should you use coalesce() vs. repartition()? Can you share an example?
+
+6. What does spark.sql.shuffle.partitions do, and why adjust it?
+
+7. What happens if your data is skewed? How can you deal with it in PySpark?
+
+8. How are wide and narrow transformations different? Why are wide ones slower?
+
+9. What’s predicate pushdown, and how does it improve performance?
+
+10. What’s dynamic partition pruning, and how does it help speed up queries?
