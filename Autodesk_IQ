@@ -1,4 +1,9 @@
 Q. 1 Why do you want to join Autodesk?
 
 Q.2 Write a program that takes a string and a number of occurrences as input. Find a character with the same occurrence count in a single iteration.
+
+SQL Optimization:
+CTEs, window functions, joins, and aggregations.
+Query tuning strategies: Index usage, avoiding subqueries, using EXISTS vs IN.
+Hint: Be ready for questions like “Find the second-highest salary” or “Identify sessions with a gap in events.”
   
